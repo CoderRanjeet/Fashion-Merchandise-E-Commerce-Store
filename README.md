@@ -42,10 +42,15 @@ SQL Server: Database management system for storing product information, user dat
 Setup Instructions : -
 
 Clone the repository to your local machine.
+
 Open the solution file in Visual Studio.
+
 Restore the NuGet packages and build the solution.
+
 Modify the connection string in the web.config file to point to your SQL Server instance.
+
 Run the SQL scripts in the DatabaseScripts folder to create the necessary tables and populate initial data.
+
 Start the application from Visual Studio or deploy it to a web server.
 
 
