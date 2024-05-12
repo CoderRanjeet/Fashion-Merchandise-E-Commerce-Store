@@ -3,7 +3,7 @@ Certainly! Below is a basic project description for a Fashion Merchandise E-Comm
 
 Fashion Merchandise E-Commerce Store
 
-<span style="font-size: 50px;"> **Overview** </span>
+<font size="4"> **Overview** </font>
 
 This project is an E-Commerce web application built using ASP.NET C#, HTML, CSS, and Bootstrap framework. It aims to provide a platform for users to browse and purchase fashion merchandise conveniently online.
 
