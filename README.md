@@ -29,13 +29,18 @@ Technologies Used
 
 
 ASP.NET C#: Backend development for server-side logic and data management.
+
 HTML: Markup language for structuring web pages.
+
 CSS: Styling language for enhancing the appearance of web pages.
+
 Bootstrap: Frontend framework for responsive and mobile-first design.
+
 SQL Server: Database management system for storing product information, user data, and order details.
 
 
-Setup Instructions
+Setup Instructions : -
+
 Clone the repository to your local machine.
 Open the solution file in Visual Studio.
 Restore the NuGet packages and build the solution.
